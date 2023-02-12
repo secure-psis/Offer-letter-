@@ -1,0 +1,18 @@
+#rejection {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  #rejection-heading{
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  
+  #rejection-image {
+    margin-top: 40px;
+  }
+  rejection-image img {
+    width: 50%;
+  }
+  

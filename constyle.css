@@ -1,0 +1,19 @@
+#congratulations {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  #congratulations-heading {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  
+  #gif-container {
+    margin-top: 40px;
+  }
+  
+  #gif-container img {
+    width: 50%;
+  }
+  

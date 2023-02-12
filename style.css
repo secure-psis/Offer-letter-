@@ -1,0 +1,73 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 36px;
+    color: linear-gradient(to right, #ffd700, #ffc107);
+  }
+    
+  pre {
+    font-size: 18px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .highlight {
+    color: #e60073;
+  }
+
+  #buttons-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    margin: 0 20px;
+    cursor: pointer;
+  }
+  
+  #reject-button {
+    background-color: #ff6347;
+    color: #fff;
+  }
+  
+  #sign-button {
+    background-color: #00bfff;
+    color: #fff;
+  }
+
+  #banner-container {
+    text-align: center;
+  }
+  
+  #banner-container img {
+    width: 100%;
+    max-width: 1128px;
+    height: 191px;
+  }
+  
+
+
+
+  
+  
+  
+  

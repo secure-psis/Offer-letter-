@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", function() {
   let text = "Dear <b> Ayush Kumar Jha</b>,\n\n"+
             "We are pleased to offer you the position of <b><i>SDE I</i></b> at <b>Pie Star Interactive Studios</b> starting on <b><i>16/03/2023</i></b>.\n\n"+
 
-            "<b>Responsibilities:</b>\n\n"+
+           "\n\n"+
+      
             "As an SDE I at Pie Star Interactive Studios, you will be responsible for developing \n\n"+
             "and maintaining software applications and systems. You will work closely with other \n\n"+
             "developers, designers, and project managers to create high-quality products that meet the needs of our clients.\n\n"+

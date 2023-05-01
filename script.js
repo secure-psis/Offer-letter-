@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
   const offerText = document.getElementById("offer-text");
-  let text = "Dear <b> Ayush Kumar Jha</b>,\n\n"+
-            "We are pleased to offer you the position of <b><i>SDE I</i></b> at <b>Pie Star Interactive Studios</b> starting on <b><i>16/03/2023</i></b>.\n\n"+
+  let text = "Dear <b> Sujal Sharma</b>,\n\n"+
+            "We are pleased to offer you the position of <b><i>Graphic Designer (Intern)</i></b> at <b>Pie Star Interactive Studios</b> starting on <b><i>01/05/2023</i></b>.\n\n"+
 
            "\n\n"+
       
-            "As an SDE I at Pie Star Interactive Studios, you will be responsible for developing and maintaining software applications and systems. You will work closely with other developers, designers, and project managers to create high-quality products that meet the needs of our clients.\n\n"+
+            "As an SDE I at Pie Star Interactive Studios, you will be responsible for High Quality graphics and vectors. You will work closely with other developers, designers, and project managers to create high-quality products that meet the needs of our clients.\n\n"+
             
             "\n\n"+
       

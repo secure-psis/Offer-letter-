@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
            "\n\n"+
       
-            "As an SDE I at Pie Star Interactive Studios, you will be responsible for High Quality graphics and vectors. You will work closely with other developers, designers, and project managers to create high-quality products that meet the needs of our clients.\n\n"+
+            "As an Graphic Designer (Intern) at Pie Star Interactive Studios, you will be responsible for High Quality graphics and vectors. You will work closely with other developers, designers, and project managers to create high-quality products that meet the needs of our clients.\n\n"+
             
             "\n\n"+
       
